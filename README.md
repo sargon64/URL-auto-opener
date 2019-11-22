@@ -1,6 +1,9 @@
 # URL-auto-opener
 Automaticly opens a list of inputed URL(s). Written in Python 3.7
 
+Requires webbrowser
+use pip install webbrowser
+
 Example Imput and output
 
 = RESTART: C:/Users/CHARLENE/Documents/Python/Website Opener (For knnyh)/Website Opener.py
